@@ -58,7 +58,8 @@ const styles = StyleSheet.create({
         margin: 16,
         paddingHorizontal: 16,
         elevation: 2,
-        borderRadius: 4
+        borderRadius: 4,
+        height: 48
     }
 })
 
